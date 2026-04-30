@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.pcap
+checkpoint.json
+.env
+__pycache__/
+.venv/
