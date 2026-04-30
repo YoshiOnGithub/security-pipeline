@@ -5,3 +5,7 @@ checkpoint.json
 .env
 __pycache__/
 .venv/
+real_hacker_log.json
+security_ledger.db
+*.html
+.DS_Store
